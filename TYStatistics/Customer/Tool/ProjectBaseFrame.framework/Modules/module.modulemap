@@ -1,0 +1,6 @@
+framework module ProjectBaseFrame {
+  umbrella header "ProjectBaseFrame.h"
+
+  export *
+  module * { export * }
+}
